@@ -1,3 +1,3 @@
 # desu_shop
-## Criação de um loja online
+## Criação de uma loja online
 > Projeto de estudo
